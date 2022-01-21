@@ -1,5 +1,5 @@
 # Purpose
-**_Our mission is to empower McGill developers, build student tools of the future, and support students and their innovations._**
+**_We are a community dedicated to empowering McGill developers, building innovative academic tools, and supporting students in their technological endeavours and career aspirations._**
 
 # Charter
 This holacracy community is founded on the ideas of self-organization, open-source, and agile development. You are free to take any action that fulfills the purpose of the organization.
