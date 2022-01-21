@@ -1,5 +1,5 @@
 # Purpose
-**_We are a community dedicated to empowering McGill developers, building innovative academic tools, and supporting students in their technological endeavours and career aspirations._**
+**_We are a community dedicated to empowering McGill developers, building innovative academic tools, and supporting students in their career aspirations._**
 
 # Charter
 This holacracy community is founded on the ideas of self-organization, open-source, and agile development. You are free to take any action that fulfills the purpose of the organization.
@@ -18,10 +18,10 @@ To facilitate open source projects and maintain administrative functions of MI.
 - _Treasury Facilitator(s)_ - Maintain ownership over financial and legal processes.  
 
 # Projects
-### McGill OpenSource
+### [McGill OpenSource](https://github.com/McGill-Innovations/McGill-OpenSource)
 Provide easy, open, and documented APIs for McGill developers to build tools. Responsible for maintaining Tools and Docs for McGill related development. Collect McGill open source and copyleft projects to support students and their day to day studies.
 
-### Decentralized Doccum 
+### Decentralized Doccum
 To create an anonymous decentralized file sharing service for students to post past contents of courses.
 
 ### [McGill CS Careers](https://github.com/abubakardaud/StudentWorks/)
