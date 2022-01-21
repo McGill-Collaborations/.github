@@ -13,9 +13,9 @@ To create, contribute, and support open source projects.
 
 ### Facilitators
 To facilitate open source projects and maintain administrative functions of MI.
-- Tech Facilitator(s): Maintain ownership over MI tools.
-- Community Facilitator(s): Maintain ownership over social media and advertising. 
-- Treasury Facilitator(s): Maintain ownership over financial and legal processes.  
+- _Tech Facilitator(s)_ - Maintain ownership over MI tools.
+- _Community Facilitator(s)_ - Maintain ownership over social media and marketing. 
+- _Treasury Facilitator(s)_ - Maintain ownership over financial and legal processes.  
 
 # Projects
 ### McGill OpenSource
